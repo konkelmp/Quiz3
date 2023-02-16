@@ -24,3 +24,6 @@ This is to show how a block looks like:
 
 
 ## THIS TEXT ADDED IN REMOTE DEV BRANCH
+
+
+## THIS TEXT ADDED IN LOCAL DEV BRANCH 2
